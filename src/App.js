@@ -1,11 +1,11 @@
 import React from "react";
-import Menus from "./components/Menus";
 import "./App.css";
+import Experience from "./Experience";
 
 function App() {
   return (
     <div>
-      <Menus />
+      <Experience />
     </div>
   );
 }
